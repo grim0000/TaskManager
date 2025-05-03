@@ -49,7 +49,7 @@ DB_NAME=task_manager
 DB_PORT=3306
 ```
 
-5. Initialize the MySQL database:
+5. Initialize the MySQL database using xampp:
 ```sql
 CREATE DATABASE task_manager;
 ```
